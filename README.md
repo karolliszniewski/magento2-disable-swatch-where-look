@@ -1,0 +1,1 @@
+# magento2-disable-swatch-where-look
